@@ -1,4 +1,4 @@
-﻿Country,  Dwellings without basic facilities,  Housing expenditure,  Rooms per person,  Household net adjusted disposable income,  Household net wealth,  Labour market insecurity,  Employment rate,  Long-term unemployment rate,  Personal earnings,  Quality of support network,  Educational attainment,  Student skills,  Years in education,  Air pollution,  Water quality,  Stakeholder engagement for developing regulations,  Voter turnout,  Life expectancy,  Self-reported health,  Life satisfaction,  Feeling safe walking alone at night,  Homicide rate,  Employees working very long hours,  Time devoted to leisure and personal care
+﻿Country,Dwellings_without_basic_facilities,Housing_expenditure,Rooms_per_person,Household_net_adjusted_disposable_income,Household_net_wealth,Labour_market_insecurity,Employment_rate,Long_term_unemployment_rate,Personal_earnings,Quality_of_support_network,Educational_attainment,Student_skills,Years_in_education,Air_pollution,Water_quality,Stakeholder_engagement_for_developing_regulations,Voter_turnout,Life_expectancy,Self_reported_health,Life_satisfaction,Feeling_safe_walking_alone_at_night,Homicide_rate,Employees_working_very_long_hours,Time_devoted_to_leisure_and_personal_care
 Australia,0,20,0,32759,427064,5.4,73,1.31,49126,95,81,502,21,5,93,2.7,91,82.5,85,7.3,63.5,1.1,13.04,14.35
 Austria,0.9,21,1.6,33541,308325,3.5,72,1.84,50349,92,85,492,17,16,92,1.3,80,81.7,70,7.1,80.6,0.5,6.66,14.55
 Belgium,1.9,21,2.2,30364,386006,3.7,63,3.54,49675,91,77,503,19.3,15,84,2,89,81.5,74,6.9,70.1,1,4.75,15.7
@@ -37,6 +37,6 @@ Turkey,8,20,1,0,0,12.5,52,2.39,0,86,39,425,18.3,20,65,1.5,86,78,69,5.5,59.8,1.4,
 United Kingdom,0.3,26,1.9,28715,548392,4.5,75,1.13,43732,94,81,500,17.5,11,84,3.1,69,81.2,69,6.8,77.7,0.2,12.15,14.92
 United States,0.1,19,2.4,45284,632100,7.7,70,0.66,60558,91,91,488,17.2,10,83,3.1,65,78.6,88,6.9,73.9,5.5,11.09,14.44
 OECD - Total,4.4,20,1.8,33604,408376,7,68,1.78,43241,89,78,486,17.2,14,81,2.4,68,80.2,69,6.5,68.4,3.7,11.01,14.98
-Non-OECD Economies,6.7,0,0,0,0,0,61,0,0,90,49,395,16.2,10,73,2.2,79,74.8,0,6.4,35.6,26.7,7.13,0
-,14.8,18,0.9,0,0,0,70,1.59,0,89,94,492,16.2,15,55,0,68,71.8,43,5.8,52.8,9.6,0.14,0
-,37,18,0,0,0,0,43,16.46,0,88,73,0,0,22,67,0,73,57.5,0,4.7,36.1,13.7,18.12,14.92
+Brazil ,6.7,0,0,0,0,0,61,0,0,90,49,395,16.2,10,73,2.2,79,74.8,0,6.4,35.6,26.7,7.13,0
+Russia,14.8,18,0.9,0,0,0,70,1.59,0,89,94,492,16.2,15,55,0,68,71.8,43,5.8,52.8,9.6,0.14,0
+South Africa,37,18,0,0,0,0,43,16.46,0,88,73,0,0,22,67,0,73,57.5,0,4.7,36.1,13.7,18.12,14.92
