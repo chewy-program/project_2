@@ -1,5 +1,24 @@
 # project_2
 Project_2
+ETLE process: 
+Loaded in two csv files into resources
+
+Loaded into the notebook ETLE_final
+
+Performed an Inner join on the files with the OECD csv to put all of the data together in the same place 
+
+Created SQL file ETLE.SQL 
+
+Loaded the information used for data analysis into PostgreSQL
+Tables: 
+	-country
+	-economy
+	-employment
+	-environment
+	-health
+	-QOL
+
+Breakdown of tasks: 
 
 Questions to answer (high level):
 Looking at OECD countriers, we want to determine if a good Work Life Balance can improve health as well as have a functioning economy 
@@ -17,10 +36,6 @@ Looking at OECD countriers, we want to determine if a good Work Life Balance can
 		b. Environment vs Happiness Zach 
 		
 		
-Tasks: 
-	Extract data from CSV - Together
-	clean data: Python 
-		Match countries to OECD countries
 		remove duplicates
 		fill NA as 0 
 
