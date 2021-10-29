@@ -7,6 +7,10 @@ Loaded into the notebook ETLE_final
 
 Performed an Inner join on the files with the OECD csv to put all of the data together in the same place 
 
+Connected the SQL engine using SQL alchemy to connect to postgresql 
+
+Password will be need to be added in to connect the engine 
+
 Created SQL file ETLE.SQL 
 
 Loaded the information used for data analysis into PostgreSQL
