@@ -40,6 +40,7 @@ SELECT * FROM environment;
 
 CREATE TABLE qol ( 
 	country VARCHAR (255) PRIMARY KEY,
+	happiness_index float,
 	social_support FLOAT, 
 	freedom_to_make_life_choices FLOAT, 
 	overworking_employees FLOAT, 
