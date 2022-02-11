@@ -1,4 +1,4 @@
-# project_2
+# ETL_Project
 Project_2
 ETLE process: 
 Loaded in two csv files into resources
